@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia,serif;
+    background-color: #ffffff;
+    color:rgb(74, 15, 130);
+    text-align: center;
+    padding: 20px;
+}
+#inputSecuencia {
+    margin: 10px;
+    padding: 5px;
+}
+#mensaje {
+    font-weight: bold;
+    color: rgb(173, 13, 8);
+}
+#inicioBtn {
+    background-color: #e19915; 
+    color: white; 
+    font-family: Georgia, serif; 
+    font-size: 18px; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px;
+}
+#verificarBtn {
+    background-color: #000000; 
+    color: white; 
+    font-family: Georgia, serif; 
+    font-size: 18px; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+}
